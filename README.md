@@ -2,7 +2,7 @@
 
 # Git Tutorial
 
-Pada tutorial kali ini kita akan membahas mengenai git dan everything about git (dasar only bruh)
+Pada tutorial kali ini kita akan membahas mengenai basic git
 
 ---
 
@@ -45,7 +45,7 @@ git clone <repo-link> <name>
 ```
 Example
 ```
-git clone https://github.com/gdscitb/HandsOn-2021.git gggaming
+git clone https://github.com/DaffaITB/bootcamp-divkom-2022.git DivkomHME
 ```
 ## Git Add
 This command will move our file to staged changes.  
