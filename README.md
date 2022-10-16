@@ -1,6 +1,6 @@
 # Git Tutorial
 
-Pada tutorial kali ini kita akan membahas mengenai basic git
+Pada tutorial kali ini kita akan membahas mengenai basic git Github
 
 ---
 
